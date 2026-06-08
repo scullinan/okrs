@@ -1,0 +1,7 @@
+interface:
+  display_name: "Team OKRs"
+  short_description: "Coach teams to define aligned OKRs"
+  default_prompt: "Use $team-okrs to help our team define an aligned Objective and strong Key Results."
+
+policy:
+  allow_implicit_invocation: true

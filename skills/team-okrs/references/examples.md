@@ -119,3 +119,44 @@ Complementary KR:
 > Keep checkout error rate below 0.5% during migration.
 
 The launch is binary and therefore an Output KR. The Outcome and Complementary KRs make the success condition meaningful.
+
+## Complete Output Example
+
+Strategic context:
+
+> ACME Corp's mission is to help financial advisers serve more clients, more effectively, by combining innovative technology, integrated services, and deep adviser expertise, so that high-quality financial advice becomes more accessible and more affordable for people pursuing their financial goals.
+
+Team context:
+
+> The Financial Planning team is a small product-aligned team of 5 people. For the quarter, the team wants to improve review preparation by giving advisers a clearer, faster, and more trustworthy way to understand client changes, communications, goal progress, and fact find information before a review.
+
+Polished OKR set:
+
+Objective:
+
+> By the end of the quarter, the Financial Planning team will reduce adviser effort and increase confidence in client review preparation for pilot advisers by giving them a consolidated view of recent client changes, communications, goal progress, and current fact find information.
+
+Key Results:
+
+1. Reduce average client review preparation time from 2 hours to less than 60 minutes for pilot advisers using the consolidated review-prep view, measured through dedicated review-prep task tracking by the end of the quarter.
+2. Achieve "Ready to rely on" ratings on at least 80% of adviser-rated review-prep views by the end of the quarter.
+3. Provide an automated confidence score for 100% of generated review-prep views and correctly surface missing, ambiguous, conflicting, or stale client information in at least 80% of sampled cases where those issues are present by the end of the quarter.
+4. Achieve review-prep view usage for at least 70% of eligible client reviews among pilot advisers by the end of the quarter.
+
+Critique summary:
+
+- Objective ACCID status: passes.
+- Objective Zoom: balanced focus.
+- Roofshot realism: strong roofshot. For a team of 5, this is ambitious but credible if the pilot scope is controlled and the first version avoids trying to solve all review-prep edge cases.
+- Alignment: strong. It supports ACME Corp's mission by improving adviser efficiency and confidence, helping advisers serve more clients more effectively.
+- KR1 SMART status: passes. Type: Outcome KR. Strong because it measures real adviser efficiency from a known 2-hour baseline.
+- KR2 SMART status: passes, assuming the rating labels are defined. Type: Outcome KR. Strong because it measures adviser trust in the review-prep view itself.
+- KR3 SMART status: mostly passes. Type: Complementary KR. Important guardrail, but needs clear definitions for missing, ambiguous, conflicting, and stale information.
+- KR4 SMART status: passes. Type: Outcome KR. Good adoption signal for an on-demand feature.
+
+Risks and assumptions:
+
+- The pilot adviser group must be defined early, otherwise adoption and time-saving metrics may get noisy.
+- Review-prep task tracking needs a dedicated task type or label so KR1 can be measured consistently.
+- The adviser rating should assess the quality of the review-prep view, not punish it for poor underlying client data.
+- "Ready to rely on" should mean the view is accurate, complete enough for review prep, and clear about any uncertainty or missing evidence.

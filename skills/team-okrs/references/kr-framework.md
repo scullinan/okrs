@@ -66,9 +66,13 @@ Examples include maintaining budget, keeping quality above a threshold, preservi
 
 ## KR Set Guidance
 
-For each Objective:
+For a 1-3 month team OKR cycle, each Objective should usually have:
 
 - Include at least 1 Outcome KR.
 - Use up to 3 Outcome KRs as a guide.
 - Add 1 to 2 Complementary KRs per Outcome KR when needed.
 - Keep Output KRs only when they add execution context and are paired with Outcome KRs.
+
+These are final acceptance guidelines, not brainstorming limits. During ideation, let the team generate more candidate KRs than will be accepted. Some candidates will be duplicates, weaker options, hidden assumptions, Output KRs that belong near execution, or ideas to defer.
+
+For longer timeframes, such as a year, the final accepted KR set can be larger. Relax the numeric guidance only when the longer horizon genuinely requires it, and keep checking that the final set is still clear, owned, measurable, and usable for tracking progress.

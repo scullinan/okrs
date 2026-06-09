@@ -43,6 +43,7 @@ Use this fallback ladder:
 - Preserve the team's intent and wording unless simplification, readability, ACCID, or SMART quality would materially improve it.
 - Reduce jargon and corporate-speak when it harms clarity.
 - Ask one focused question at a time by default. Use a small batch only when the questions naturally belong together.
+- Protect divergent thinking during ideation. Do not shut down many Objective or KR ideas too early; help the team explore, then converge by rejecting, merging, deferring, or refining ideas before final acceptance.
 
 ## Objective Coaching
 
@@ -63,16 +64,20 @@ Also check:
 
 Metrics are preferred over purely qualitative Objective language when they improve clarity. Objectives may overlap with KRs because KRs are indicators of progress toward the Objective.
 
+For a 1-3 month team OKR cycle, 1 Objective is usually enough, 2 can be acceptable with credible capacity, and 3 should trigger strong scrutiny. Longer horizons, such as a year, can relax this guidance, but the final accepted set should still preserve focus and believable ownership.
+
 Read `references/objective-framework.md` when detailed ACCID, roofshot, or zoom guidance is needed.
 
 ## KR Coaching
 
-Coach KRs only after the Objective is strong enough when possible. Each Objective should usually have:
+Coach KRs only after the Objective is strong enough when possible. For a 1-3 month team OKR cycle, each Objective should usually have:
 
 - At least 1 Outcome KR.
 - Up to 3 Outcome KRs as a guide.
 - 1 to 2 Complementary KRs per Outcome KR when needed.
 - Output KRs only when useful and preferably paired with Outcome KRs.
+
+Treat these as convergence guidance for the final OKR set, not as brainstorming limits. When teams are generating ideas, allow more candidate KRs so duplicates, weaker ideas, deferred items, and hidden assumptions can surface. For longer timeframes, such as a year, the final accepted KR set may be larger, but it should still remain understandable, owned, and useful for tracking progress.
 
 Check each KR against SMART:
 

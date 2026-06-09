@@ -86,6 +86,17 @@ Use both evidence and team judgement:
 
 If the team does not believe it is achievable, refine scope, target, timeframe, dependency assumptions, or wording.
 
+## Number Of Objectives
+
+For a 1-3 month team OKR cycle:
+
+- 1 Objective is usually enough.
+- 2 Objectives can be acceptable if the team has credible capacity and the Objectives do not compete for focus.
+- 3 Objectives should trigger strong scrutiny.
+- More than 3 is usually too many for a short team OKR cycle.
+
+For longer horizons, such as a year, this guidance can be relaxed. Still challenge the team to converge on a final set it can genuinely own. During brainstorming, do not limit the number of ideas too aggressively; let the team think broadly, then merge duplicates, reject weaker ideas, defer lower-priority ideas, and refine the strongest candidates.
+
 ## Zoom
 
 Team Objectives need the right level of focus.
